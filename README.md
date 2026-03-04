@@ -29,7 +29,6 @@ I combine charts into one dashboard.
 ## Tableau Dashboard  
 View the interactive dashboard here:  
 https://public.tableau.com/app/profile/.73913899/viz/Book1_17725668330150/EcommerceDashboard?publish=yes
-(Replace with your real link)  
 
 ## Key Findings  
 Sales increase in certain months.  

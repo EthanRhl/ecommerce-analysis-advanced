@@ -1,7 +1,9 @@
-巴西Olist电商平台销售趋势与客户行为分析
-这个项目用来分析电商数据。
-SQL查询数据。
-MySQL存储。
-Tableau可视化。
-技术栈：Python, SQL, MySQL, Tableau。
-步骤：1.加载数据 2.建表 3.SQL分析 4.可视化
+Ecommerce Analysis Advanced
+This project analyzes sales trends.
+I use SQL for queries.
+I use MySQL for storage.
+I use Tableau for visuals.
+Tech stack: Python, SQL, MySQL, Tableau.
+Steps: 1. Load data. 2. Create tables. 3. SQL analysis. 4. Visualize.
+Link to notebook: ecommerce_analysis.ipynb
+Link to Tableau: https://public.tableau.com/app/profile/.73913899/viz/Book1_17725668330150/EcommerceDashboard?publish=yes
